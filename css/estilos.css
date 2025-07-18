@@ -1,0 +1,38 @@
+* {
+    font-family: arial; box-sizing: border-box;
+}
+
+body {
+    background: lightskyblue;
+}
+
+h1 {
+    color: maroon;
+}
+
+.centrar  {
+    text-align: center;
+}
+
+main {
+    width: 70%; margin: 50px auto; max-width: 1400px; padding: 20px; border: 2px solid grey; border-radius: 10px; box-shadow: 3px 3px 5px blue;
+}
+
+.nombre, .direccion {
+    cursor: pointer; border: 2px solid green;
+}
+
+td, th {
+    vertical-align: middle
+}
+
+td form {
+    display: inline-block;
+}
+
+
+
+
+
+
+
